@@ -1,6 +1,6 @@
-# rock-paper-scissors-shoot
-
 ```
+# rock-paper-scissors-shoot in Python
+
 import random
 
 def validate(your_hand):
