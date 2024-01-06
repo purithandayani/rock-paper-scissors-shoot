@@ -1,6 +1,6 @@
 # rock-paper-scissors-shoot
 
-
+```
 import random
 
 def validate(your_hand):
@@ -43,3 +43,4 @@ if validate(player_hand):
 else:
     print('Oops, nomor yang kamu masukan salah!') 
     print('Silahkan mulai lagi dan masukan nomor yang benar!')
+```
